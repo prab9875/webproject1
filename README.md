@@ -1,2 +1,1 @@
-# webproject1
-gitlabtraining02/07/2022
+Welcome to Git andGitHub Trainning by simplilearn
